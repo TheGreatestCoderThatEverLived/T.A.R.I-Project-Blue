@@ -1,2 +1,1 @@
-# T.A.R.I-Project-Blue
-for context, Tari is a character in meta runner who's design is to assist people in video games, anyways, this project's purpose is to make tari irl.
+https://docs.google.com/document/d/1iSj_VsSy5i_6YyywTOZY-HpypP7R7sH-gZEeRqQtGmA/edit?usp=sharing
